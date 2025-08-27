@@ -8,7 +8,7 @@ import os
 
 db_name = "expenses.db"
 excel = "expense_tracker.xlsx"
-token = "8476726893:AAF37w1v63y4nmD2H8R8zAu3BiiIiOwWZyI"
+token = "YOUR_BOT_TOKEN"
 
 def main():
     create_db()
