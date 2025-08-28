@@ -6,8 +6,8 @@ from telegram.ext import Application, CommandHandler, CallbackContext, MessageHa
 import sqlite3
 import os
 
-db_name = "expenses.db"
-excel = "expense_tracker.xlsx"
+db_name = "money_log.db"
+excel = "money_log.xlsx"
 token = "YOUR_BOT_TOKEN"
 
 def main():
